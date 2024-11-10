@@ -1,0 +1,84 @@
+.navbar{
+    display: flex;
+}
+.logo{
+    width: 34px;
+    height: 41px;
+    background-color: #39DB4A;
+    margin-left: 154px;
+    margin-top: 57px;
+    margin-bottom: 154px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+.logo_img{
+    width: 18px;
+    height: 24px;
+}
+.logo_text{
+    width: 70px;
+    height: 22px;
+    margin-top: 64.5px;
+    margin-left: 5px;
+}
+.menu{
+    list-style: none;
+    display: flex;
+    text-decoration: none;
+    margin-top: 65px;
+    margin-left: 83px;
+}
+.menu_btn1{
+    margin-left: 120px;
+    width: 56px;
+    height: 30px;
+    color: #39DB4A;
+    cursor: pointer;
+}
+.menu_btn{
+    margin-left: 60px;
+    width: 56px;
+    height: 30px;
+    cursor: pointer;
+    display: flex;
+}
+
+.btn_icon{
+    margin-left: 5px;
+    margin-top: 5px;
+    color:#39DB4A;
+}
+
+.menu_btn:hover{
+    color:#39DB4A;
+}
+.search_icon{
+    width: 23px;
+    height: 23px;
+    margin-top: 60px;
+    margin-left: 160px;
+    cursor: pointer;
+}
+
+.bag_icon{
+    width: 23px;
+    height: 23px;
+    margin-top: 60px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.header_btn{
+    margin-top: 40px;
+    margin-left: 20px;
+    background-color: #39DB4A;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 40px;
+    gap: 15px;
+    font-size:larger;
+}
